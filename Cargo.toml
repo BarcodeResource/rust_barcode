@@ -5,9 +5,9 @@ authors = ["support@barcoderesource.com"]
 edition = "2018"
 
 description = "Create compliant barcodes using fonts."
-documentation = "https://www.barcoderesource.com/rustbarcode.shtml"
-homepage = "https://www.barcoderesource.com/rustbarcode.shtml"
-repository = "https://github.com/Misfits-Rebels-Outcasts/rustbarcode"
+documentation = "https://www.barcoderesource.com/rust_barcode.shtml"
+homepage = "https://www.barcoderesource.com/rust_barcode.shtml"
+repository = "https://github.com/BarcodeResource/rust_barcode"
 keywords = ["barcode", "barcode fonts", "code39", "indsutrial2of5", "postnet"]
 categories = ["command-line-utilities"]
 license = "GPL"

@@ -1,11 +1,11 @@
-extern crate connectcode;
+extern crate barcode_command;
 
 use std::env;
 
-use crate::connectcode::barcode::code39::Code39;
-use crate::connectcode::barcode::industrial2of5::Industrial2of5;
-use crate::connectcode::barcode::postnet::POSTNET;
-use crate::connectcode::barcode::Barcode;
+use crate::barcode_command::barcode::code39::Code39;
+use crate::barcode_command::barcode::industrial2of5::Industrial2of5;
+use crate::barcode_command::barcode::postnet::POSTNET;
+use crate::barcode_command::barcode::Barcode;
 
 //cargo build --target wasm32-wasi
 
