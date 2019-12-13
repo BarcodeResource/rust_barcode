@@ -8,7 +8,7 @@ description = "Create compliant barcodes using fonts."
 documentation = "https://www.barcoderesource.com/rust_barcode.shtml"
 homepage = "https://www.barcoderesource.com/rust_barcode.shtml"
 repository = "https://github.com/BarcodeResource/rust_barcode"
-keywords = ["barcode", "barcode fonts", "code39", "indsutrial2of5", "postnet"]
+keywords = ["barcode", "code39", "indsutrial2of5", "postnet"]
 categories = ["command-line-utilities"]
 license = "GPL"
 
