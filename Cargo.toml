@@ -10,7 +10,7 @@ homepage = "https://www.barcoderesource.com/rust_barcode.shtml"
 repository = "https://github.com/BarcodeResource/rust_barcode"
 keywords = ["barcode", "code39", "indsutrial2of5", "postnet"]
 categories = ["command-line-utilities"]
-license = "GPL"
+license = "GPL-3.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
